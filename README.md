@@ -1,7 +1,7 @@
 # CRUD SYSTEM WITH MERN
-##Student Record Projects a CRUD system using MongoDB,Express.js,React.js and Node.js
+Student Record Projects a CRUD system using MongoDB,Express.js,React.js and Node.js
 
-##Using react bootstrap for the front-end development
+sing react bootstrap for the front-end development
 
 ## Installation
 
