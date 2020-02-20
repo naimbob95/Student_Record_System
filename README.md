@@ -23,3 +23,4 @@ naimbob95
 
 ## Screenshot of the projects
 ![picture alt](https://imgur.com/XjIoG7d "Title is optional")
+![alt text](https://imgur.com/XjIoG7d)
