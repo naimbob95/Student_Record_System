@@ -17,7 +17,7 @@
 
 ### Run the React client on other terminal ###
 -npm run build
-
+```
 ## Author
 naimbob95
 
